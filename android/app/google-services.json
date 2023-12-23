@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090073965272",
+    "project_id": "eat-healthy-2023",
+    "storage_bucket": "eat-healthy-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090073965272:android:3f141bb71540b38da91dad",
+        "android_client_info": {
+          "package_name": "com.example.eathealthy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zUiaNm9uUoGRta2X4RMojeM2fnJ_15Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
